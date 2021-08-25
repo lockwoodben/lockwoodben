@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lockwoodben
 - 👀 I’m interested in ...
-- 🌱 Java, R, Linux Systems
+- 🌱 I am learning... Java, R, Linux Systems
 - 💞️ I’m looking to collaborate on ...
-- 📫 ben.lockwood0@gmail.com
+- 📫 You can reach me at... ben.lockwood0@gmail.com
       lockwoodb@appstate.edu
       (919)-491-5977
 
