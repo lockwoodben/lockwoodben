@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in ...
-- 🌱 I am learning... Java, R, Linux Systems
+- 🌱 I am learning... Java, R, Linux Systems, Javascript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at... ben.lockwooddev@gmail.com, lockwoodb#5872 discord
 
