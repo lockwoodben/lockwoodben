@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Ben
-- 👀 I’m interested in ...
-- 🌱 I am learning... Java, R, Linux Systems, Javascript, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at... ben.lockwooddev@gmail.com, lockwoodb#5872 discord
-
-<!---
-lockwoodben/lockwoodben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
