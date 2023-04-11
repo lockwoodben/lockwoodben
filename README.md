@@ -27,7 +27,7 @@
 
 <div id="L&T" align="center">
   
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools :hammer_and_wrench:
 
   
   <div>
@@ -49,7 +49,7 @@
 
 <div id="stats" align="center">
   
-### :fire: My Stats
+### :fire: My Stats :fire:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lockwoodben&theme=gruvbox)](https://git.io/streak-stats)
