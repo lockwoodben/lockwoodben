@@ -55,5 +55,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lockwoodben&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockwoodben&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockwoodben&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
