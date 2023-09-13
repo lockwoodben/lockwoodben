@@ -17,7 +17,7 @@
 ---------
 
 - :student: I am currently studying Computer Science at Appalachian State Univeristy. I am set to graduate December 2023.
-- :seedling: I am currently learning Haskell, C#, and the Unity Engine.
+- :seedling: I am currently learning C#,Javascript, and the Godot Engine.
 - :zap: I am working on a game in my freetime titled "Welcome to the Skeledome". You can find the project  <a href ="https://github.com/lockwoodben/Welcome-to-the-Skeledome-Development">
   here!
   </a>
