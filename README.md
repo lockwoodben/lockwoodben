@@ -43,7 +43,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux Systems" alt="Linux" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/godot-original.svg" title="Unity" alt="Godot" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Unity" alt="Godot" width="60" height="60"/>&nbsp;
   </div>
 </div>
 
