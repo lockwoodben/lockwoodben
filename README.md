@@ -56,6 +56,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lockwoodben&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-six-pi-44.vercel.app/api/top-langs/?username=lockwoodben)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-pi-44.vercel.app/api/top-langs/?username=lockwoodben)](https://github-readme-stats-six-pi-44.vercel.app/github-readme-stats)
 
   </div>
